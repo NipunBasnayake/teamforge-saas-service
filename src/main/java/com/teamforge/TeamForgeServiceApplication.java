@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TeamforgeServiceApplication {
+public class TeamForgeServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TeamforgeServiceApplication.class, args);
+        SpringApplication.run(TeamForgeServiceApplication.class, args);
     }
 }
